@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+![Screenshot (1)](https://github.com/dhruvaop/todo-frontend/assets/71749153/956c9ae6-8b22-4341-b6f4-a054d96b43ef)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
